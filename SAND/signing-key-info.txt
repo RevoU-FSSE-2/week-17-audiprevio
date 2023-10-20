@@ -1,0 +1,10 @@
+Keep this file and signing.keystore in a safe place. You'll need these files if you want to upload future versions of your PWA to the Google Play Store.
+
+Key store file: signing.keystore
+Key store password: cUVO6pKaxAgj
+Key alias: my-key-alias
+Key password: W661EcEaoOMO
+Signer's full name: SouthTrack Admin
+Signer's organization: SouthTrack
+Signer's organizational unit: Engineering
+Signer's country code: US
