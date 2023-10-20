@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="icon" type="image/x-icon" href="/src/content/favicon.svg">
+    <title>CORS AND SECURITY TEST</title>
+</head>
+<body>
+    <h1>XSS Test</h1>
+    <form id="xssTestForm">
+        <label for="inputField">Input </label><br>
+        <input type="text" id="inputField" name="inputField"><br>
+        <input type="submit" value="Submit">
+    </form>
+
+    <div id="output"></div>
+
+    <script>
+        document.getElementById('xssTestForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const input = document.getElementById('inputField').value;
+            document.getElementById('output').innerText = input;
+        });
+    </script>
+</body>
+</html>

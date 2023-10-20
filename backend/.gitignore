@@ -1,0 +1,8 @@
+node_modules
+Dockerfile
+.dockerignore
+fly.toml
+test.html
+adminpanel.html
+# Local Netlify folder
+.netlify
