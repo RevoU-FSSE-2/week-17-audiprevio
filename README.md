@@ -33,6 +33,8 @@ Feel free to make your own account - follow the regist instruction - & your own 
 [Back to Table of Contents](#table-of-contents)
 
 ---
+<br />
+<br />
 
 ## 2. SouthTrack Deployed on Firebase
 Do note that SouthTrack React was and still is an integrated front-end and back-end application. The front-end and back-end that was used before firebase is the same as in this one.
@@ -79,6 +81,8 @@ be mindful that the options should be in accordance to your firebase project. Th
 [Back to Table of Contents](#table-of-contents)
 
 ---
+<br />
+<br />
 
 ## 3. Backend Unit Testing of SouthTrack - 100% Pass
 
@@ -146,6 +150,8 @@ describe('adminController', () => {
 [Back to Table of Contents](#table-of-contents)
 
 ---
+<br />
+<br />
 
 ## 4. Mobile Responsiveness of SouthTrack
 
@@ -173,6 +179,8 @@ Moreover, Chromedevtool even on MacBook can fail to catch inconsistencies in sty
 [Back to Table of Contents](#table-of-contents)
 
 ---
+<br />
+<br />
 
 ## 5. Lighthouse Performance of SouthTrack
 
@@ -213,6 +221,8 @@ The bug in question is this one below. As of this point, <u>I have yet to uncove
 [Back to Table of Contents](#table-of-contents)
 
 ---
+<br />
+<br />
 
 ## 6. PWA Set-up
 Let me say it from the get go,
@@ -306,6 +316,8 @@ Firebase-deployed SouthTrack, on reload in offline with service workers - user c
 [Back to Table of Contents](#table-of-contents)
 
 ---
+<br />
+<br />
 
 ## 7. PWA Showcase on Xcode (iOS)
 
@@ -328,6 +340,8 @@ To try this out, you can just clone the folder `SIOS` (Short for SouthTrack iOS)
 
 [Back to Table of Contents](#table-of-contents)
 ---
+<br />
+<br />
 
 ## 8. PWA Showcase on Android
 
@@ -347,7 +361,8 @@ Also Thanks to **https://www.pwabuilder.com/**, I managed to turn SouthTrack on 
 [Back to Table of Contents](#table-of-contents)
 
 ---
-
+<br />
+<br />
 
 ## 9. Big, big thanks
 to Kak Dana for the amazing learning materials this week, and to Kak Dion for the timeless guidance✨
